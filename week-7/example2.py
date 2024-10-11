@@ -1,7 +1,8 @@
 import gensim.downloader as api
 
 # Load pre-trained Word2Vec model
-model = api.load("word2vec-google-news-300")
+model = api.load("glove-wiki-gigaword-50")
+
 
 # Get word vector for a specific word
 word_vector = model['cat']
