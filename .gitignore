@@ -4,6 +4,8 @@ ttt/
 .data/
 data/
 .vector_cache/
+pretrained_sentiment_clasifier_BERT/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
