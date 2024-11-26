@@ -5,6 +5,8 @@ ttt/
 data/
 .vector_cache/
 pretrained_sentiment_clasifier_BERT/
+ITESM-MIT-MasterThesis/
+ITESM-MIT-MasterThesis.zip
 3_8/
 # Byte-compiled / optimized / DLL files
 __pycache__/
